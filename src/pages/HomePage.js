@@ -12,7 +12,7 @@ export function HomePage() {
   }, []);
 
   return (
-    <table className="table table-secondary table-striped">
+    <table className="table table-secondary table-striped mt-4">
       <thead className="text-center">
         <tr>
           <th>title</th>
